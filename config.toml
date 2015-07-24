@@ -1,8 +1,7 @@
 baseurl = "http://chatanu.ga/"
 languageCode = "en-us"
-title = "Chatanu.ga - Temporal Blog"
+title = "Chatanu.ga"
 theme = "hyde"
-copyright = "Eran Zimbler"
 
 [Author]
     name = "Eran Zimbler"
@@ -13,6 +12,7 @@ copyright = "Eran Zimbler"
 
 [params]
     twitter = "https://twitter.com/zimbler"
+    linkedin = "https://il.linkedin.com/zimbler"
     github = "https://github.com/srgrn"
-    gplus = "https://plus.google.com/+EranZimbler"
     disqusShortname = "chatanuga"
+	description = "My latest blog experiment, this time Static"
