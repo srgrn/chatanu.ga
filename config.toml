@@ -1,3 +1,18 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://chatanu.ga/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Chatanu.ga - Temporal Blog"
+theme = "hyde"
+copyright = "Eran Zimbler"
+
+[Author]
+    name = "Eran Zimbler"
+
+[Permalinks]
+    blog = "/:year/:month/:filename/"
+    code = "/:filename/"
+
+[params]
+    twitter = "https://twitter.com/zimbler"
+    github = "https://github.com/srgrn"
+    gplus = "https://plus.google.com/+EranZimbler"
+    disqusShortname = "chatanuga"
