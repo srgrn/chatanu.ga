@@ -1,4 +1,4 @@
-baseurl = "chatanu.ga/"
+baseurl = "https://chatanu.ga/"
 languageCode = "en-us"
 title = "Chatanu.ga"
 theme = "hyde"
