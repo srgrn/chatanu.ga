@@ -1,6 +1,6 @@
 baseurl = "https://chatanu.ga/"
 languageCode = "en-us"
-title = "Chatanu.ga"
+title = "Chatanu. ga"
 theme = "hyde"
 
 [Author]
@@ -15,4 +15,5 @@ theme = "hyde"
     linkedin = "https://il.linkedin.com/in/zimbler"
     github = "https://github.com/srgrn"
     disqusShortname = "chatanuga"
-	description = "My latest blog experiment, this time Static"
+	description = "Interesting tidbits"
+	showDescriptions = true
