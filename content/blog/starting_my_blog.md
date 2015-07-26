@@ -1,5 +1,5 @@
 +++
-Description = "How I started the current blog"
+Description = "How I started the current blog - the tools and decision proccess."
 date = "2015-07-24T16:28:54+03:00"
 title = "Starting my blog"
 type = "post"
