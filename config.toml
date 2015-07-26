@@ -12,7 +12,7 @@ theme = "hyde"
 
 [params]
     twitter = "https://twitter.com/zimbler"
-    linkedin = "https://il.linkedin.com/zimbler"
+    linkedin = "https://il.linkedin.com/in/zimbler"
     github = "https://github.com/srgrn"
     disqusShortname = "chatanuga"
 	description = "My latest blog experiment, this time Static"
