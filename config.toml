@@ -16,4 +16,3 @@ theme = "hyde"
     github = "https://github.com/srgrn"
     disqusShortname = "chatanuga"
 	description = "Interesting tidbits"
-	showDescriptions = true

@@ -16,11 +16,14 @@
     </h1>
 
     <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-    {{ if and (isset .Site.Params "showDescriptions") (ne .Site.Params.showDescriptions "") (ne .Description "") }}
-      {{ .Description }} 
-    {{ else }} 
-      {{ .Content }} 
-    {{end}}
+    <div class="summary">
+      {{ .Summary }}
+    </div>
+    {{ if .Truncated }}
+    <div class="read-more-link">
+      <a href="{{ .RelPermalink }}">Read More…</a>
+    </div>
+    {{ end }}
   </div>
   {{ end }}
   {{ end }}

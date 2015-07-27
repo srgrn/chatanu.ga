@@ -14,13 +14,13 @@ Like each of the previous experiments instead of creating content I mess around 
 So here is the first post on how this blog got created including some tips for free blog generation.
 
 ## Steps:
+<!--more-->
 1. [get a new domain name.](#getdomain)
 1. [Decide on site building method.](#choosestatic)
 1. [find a place to host static files.](#findhost)
 1. (optional) [create a github repo for the source of the blog.](#sourcecontrol)
 1. [start messing around with the engine of choice.](#messingaround)
 1. (optional) [automatic build and deployment based on the selected tools and host.](#autodeploy)
-
 
 ### <a name="getdomain"></a>1. Get a new domain name.
 
