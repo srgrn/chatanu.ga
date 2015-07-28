@@ -1,6 +1,6 @@
 +++
 Description = "Short list of ideas that sounds interesting to do."
-date = "2015-07-27T11:00:01+03:00"
+date = "2015-07-26T11:00:01+03:00"
 title = "10 Side project ideas that might be fun to do."
 type = "post"
 +++

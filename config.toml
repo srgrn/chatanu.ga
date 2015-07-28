@@ -2,6 +2,7 @@ baseurl = "https://chatanu.ga/"
 languageCode = "en-us"
 title = "Chatanu. ga"
 theme = "hyde"
+pygmentsuseclasses = true
 
 [Author]
     name = "Eran Zimbler"

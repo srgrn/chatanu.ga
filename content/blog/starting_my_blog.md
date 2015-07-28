@@ -12,9 +12,9 @@ this time it is a static blog, created using [hugo](gohugo.io) based on tricks l
 
 Like each of the previous experiments instead of creating content I mess around with the technology.
 So here is the first post on how this blog got created including some tips for free blog generation.
+<!--more-->
 
 ## Steps:
-<!--more-->
 1. [get a new domain name.](#getdomain)
 1. [Decide on site building method.](#choosestatic)
 1. [find a place to host static files.](#findhost)
