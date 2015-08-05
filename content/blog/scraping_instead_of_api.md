@@ -2,7 +2,7 @@
 Description = ""
 date = "2015-08-03T17:06:36+03:00"
 draft = false
-title = "scraping_instead_of_api"
+title = "Scraping instead of API"
 type = "post"
 
 +++

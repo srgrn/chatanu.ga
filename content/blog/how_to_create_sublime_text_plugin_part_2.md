@@ -2,7 +2,7 @@
 Description = ""
 date = "2015-08-02T18:56:23+03:00"
 draft = false
-title = "how_to_create_sublime_text_plugin_part_2"
+title = "How to create sublime text plugin part 2"
 type = "post"
 
 +++
