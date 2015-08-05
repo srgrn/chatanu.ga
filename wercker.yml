@@ -1,6 +1,12 @@
 box: nodesource/trusty
 build:
   steps:
+    - script:
+      name: install pygments
+      code: |
+        apt-get update -y
+        apt-get install python-pip build-essential python-dev -y
+        pip install --upgrade pygments
     - arjen/hugo-build@1.4.0
 
 deploy:
