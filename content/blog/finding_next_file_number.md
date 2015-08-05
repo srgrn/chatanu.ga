@@ -16,14 +16,16 @@ This is not really a problem of the code, as you are not supposed to have multip
 This simple problem became annoyingly complicated. The first step was stackoverflow.com, but the solutions there were not exactly what I wanted, eventually after half a day of pondering, I went back to my Perl roots and used a regex, creating the following solution.
 
 {{< highlight python >}}
-        index = 1
-        import re
-        while os.path.exists(os.path.join(dirpath, name)):
-            exp = r'_\d*.md$'
-            if index == 1:
-                exp = r'.md$'
-            name = re.sub(exp, '_' + str(index) + '.md', name)
-            index += 1
+
+index = 1
+import re
+while os.path.exists(os.path.join(dirpath, name)):
+    exp = r'_\d*.md$'
+    if index == 1:
+        exp = r'.md$'
+    name = re.sub(exp, '_' + str(index) + '.md', name)
+    index += 1
+    
 {{< /highlight >}}
 
 This is working only on .md files but it works fine. it can be easily changed to extract the ext part using os.path.splitext method.
