@@ -15,3 +15,4 @@ If when you read this some of them are broken please let me know.
 
 * [Coding Horror - The F5 Key Is Not a Build Process](http://blog.codinghorror.com/the-f5-key-is-not-a-build-process/)
 * [otomato - HOW TO HIRE FOR DEVOPS](https://otomato.wordpress.com/2015/04/29/how-to-hire-for-devops/)
+* []()
