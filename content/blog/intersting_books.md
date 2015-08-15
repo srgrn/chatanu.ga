@@ -1,6 +1,6 @@
 +++
 Description = "list of books/audiobook that are interesting and worthwhile"
-date = "2015-08-13T22:41:51+03:00"
+date = "2015-08-15T21:33:54+03:00"
 draft = false
 title = "Interesting books (or just stuff you can tell others you read"
 type = "post"
