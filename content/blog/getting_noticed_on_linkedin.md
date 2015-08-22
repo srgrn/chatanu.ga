@@ -24,3 +24,5 @@ Well, this group has some 27000 members in it, and most of them are not doing mu
 This means that posting a link and getting some likes on it, together with commenting on other people posts (even if some of them were just to say that it was an interesting article) contributed on average more than most of those 27000 people.
 
 So the way to be more visible on is to find groups (preferably big ones) that might be related to your field. Post some links or participate in some discussions, and become much more visible in search results.
+
+This is an easy way to make yourself more visible for your next position or just trying to get to the top in linkedin [How do I rank](https://www.linkedin.com/wvmx/profile/rankings?trk=wvmx-profile) page.
