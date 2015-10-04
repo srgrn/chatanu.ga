@@ -39,7 +39,7 @@ so instead of
 
 {{< highlight python >}} 
 args = ["hugo", "new", target]
-{{< /highligh >}}
+{{< /highlight >}}
 
 I now have:
 
