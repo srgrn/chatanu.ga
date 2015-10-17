@@ -1,8 +1,8 @@
 +++
 Description = ""
-date = "2015-10-17T14:50:49+03:00"
-draft = true
-title = "installing python-qpid-proton on osx"
+date = "2015-10-17T15:27:27+03:00"
+draft = false
+title = "Installing python-qpid-proton on OSX"
 type = "post"
 
 +++
