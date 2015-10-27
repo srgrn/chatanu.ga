@@ -18,4 +18,5 @@ deploy:
       name: upload site to surge
       code: |
         ls -l public/
+        echo !bower_components/ > ./public/.surgeignore
         surge ./public/ chatanu.ga 
