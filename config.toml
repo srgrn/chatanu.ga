@@ -1,11 +1,10 @@
 baseurl = "http://chatanu.ga/"
 languageCode = "en-us"
-title = "Chatanu. ga"
-theme = "hyde"
+title = "Chatanu.ga Interesting tidbits"
+theme = "polymer"
 pygmentsuseclasses = true
-
-[Author]
-    name = "Eran Zimbler"
+disqusShortname = "chatanuga"
+copyright = "© 2015 Copyright Text"
 
 [Permalinks]
     blog = "/:year/:month/:filename/"
@@ -17,3 +16,9 @@ pygmentsuseclasses = true
     github = "https://github.com/srgrn"
     disqusShortname = "chatanuga"
 	description = "Interesting tidbits"
+    author = "Eran Zimbler"
+    photo = "images/photo.png" # optional
+    profile = "images/profile.png" # optional
+    cover = "images/cover.png" # optional
+    googleAnalyticsUserID = "UA-66284390-1"
+    gravatarHash = "84d2d1476d96b093bd0f180412db2460"
