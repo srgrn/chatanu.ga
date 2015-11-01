@@ -1,13 +1,20 @@
 +++
 Description = ""
-date = "2015-10-10T10:39:15+03:00"
-draft = true
-title = "learning_through_answering"
+date = "2015-11-01T13:07:09+03:00"
+draft = false
+title = "Learning through answering"
 type = "post"
 
 +++
 
-So last week I got the amazing chance to give an [ignite talk](http://www.devopsdays.org/events/2015-telaviv/program/ignite_eran_zimbler.html) at [DevOps Days TLV 2015](http://www.devopsdays.org/events/2015-telaviv).
+Recently I got the amazing chance to give an [ignite talk](http://www.devopsdays.org/events/2015-telaviv/program/ignite_eran_zimbler.html) at [DevOps Days TLV 2015](http://www.devopsdays.org/events/2015-telaviv).
 
-Giving an ignite talk is always fun. The concept of an ignite talk, the limitations and the fact it is very short allow people that are not used to giving talks to get better without most of the fear that is usually part of starting public speaking.
+And Today they published the videos.
+<!--more-->
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Shvwm7pERSI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+I recommend also Corey Quinn ignite talk, it is amazingly funny. [DevOps Coping Strategy #1 - Corey Quinn](https://youtu.be/sZy-BAzUO4g)
+
+
 
