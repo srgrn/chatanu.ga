@@ -4,7 +4,7 @@ date = "2015-07-28T21:11:18+03:00"
 draft = false
 title = "How to create a sublime_text plug-in"
 type = "post"
-
+categories = ["coding"]
 +++
 
 When starting to blog using [hugo](gohugo.io) the first thing you learn is to create posts.

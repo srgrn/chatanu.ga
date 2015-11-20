@@ -4,7 +4,7 @@ date = "2015-08-15T21:33:54+03:00"
 draft = false
 title = "Interesting books (or just stuff you can tell others you read"
 type = "post"
-
+categories = ["general"]
 +++
 
 There are a lot of interesting books, some of them are also available as audiobooks.

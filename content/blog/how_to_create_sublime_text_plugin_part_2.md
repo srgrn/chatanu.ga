@@ -4,7 +4,7 @@ date = "2015-08-02T18:56:23+03:00"
 draft = false
 title = "How to create sublime text plugin part 2"
 type = "post"
-
+categories = ["coding"]
 +++
 
 The previous post [How to create a sublime_text plug-in](https://chatanu.ga/2015/07/how_to_create_sublime_text_plugin/) The subject was how to start creating TextCommands for sublime text and how to have them as keyboard shortcuts.

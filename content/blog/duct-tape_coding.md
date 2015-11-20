@@ -4,7 +4,7 @@ date = "2015-08-28T21:59:25+03:00"
 draft = false
 title = "Duct Tape Coding"
 type = "post"
-
+categories = ["ideas"]
 +++
 
 There is an old saying "real engineers need only two tools Duct Tape and WD40 - When something should move and it is stuck WD40, if it should stay and it moves Duct tape, all other cases are working as expected".

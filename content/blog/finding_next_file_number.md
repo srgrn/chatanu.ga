@@ -4,7 +4,7 @@ date = "2015-08-05T22:24:24+03:00"
 draft = false
 title = "Finding next file number"
 type = "post"
-
+categories = ["coding"]
 +++
 
 Yesterday I encountered a tiny problem. 

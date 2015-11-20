@@ -4,7 +4,7 @@ date = "2015-11-01T12:59:21+02:00"
 draft = false
 title = "What I automated with python"
 type = "post"
-
+categories = ["social"]
 +++
 
 I encountered a reddit thread on r/Python called [What did you automate with python](https://www.reddit.com/r/Python/comments/3p8m2s/what_did_you_automate_with_python/) which got me thinking.

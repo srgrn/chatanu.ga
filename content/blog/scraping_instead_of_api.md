@@ -4,7 +4,7 @@ date = "2015-08-03T17:06:36+03:00"
 draft = false
 title = "Scraping instead of API"
 type = "post"
-
+categories = ["coding","ideas"]
 +++
 
 There are cases when you need to automate a service that doesn't have an API, or have an API but it is missing some required features. In such cases and when the case is clear enough you usually turn to scraping.

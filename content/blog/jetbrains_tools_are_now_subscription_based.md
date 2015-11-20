@@ -4,7 +4,7 @@ date = "2015-09-05T09:46:03+03:00"
 draft = false
 title = "Jetbrains tools are now subscription based"
 type = "post"
-
+categories = ["general"]
 +++
 
 Two days ago jetbrains has released the [Jetbrains toolbox](http://blog.jetbrains.com/blog/2015/09/03/introducing-jetbrains-toolbox/).

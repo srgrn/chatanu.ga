@@ -4,7 +4,7 @@ date = "2015-11-01T13:07:09+03:00"
 draft = false
 title = "Learning through answering"
 type = "post"
-
+categories = ["social"]
 +++
 
 Recently I got the amazing chance to give an [ignite talk](http://www.devopsdays.org/events/2015-telaviv/program/ignite_eran_zimbler.html) at [DevOps Days TLV 2015](http://www.devopsdays.org/events/2015-telaviv).

@@ -4,7 +4,7 @@ date = "2015-08-30T19:58:14+03:00"
 draft = false
 title = "Using mosh"
 type = "post"
-
+categories = ["tools"]
 +++
 
 After knowing about [MOSH](https://mosh.mit.edu/) (the mobile shell) almost from its beginning and never bothering to use it (for varied reasons) I finally have it installed.

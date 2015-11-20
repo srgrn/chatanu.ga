@@ -4,7 +4,7 @@ date = "2015-08-09T22:01:23+03:00"
 draft = false
 title = "Using jenkins dynamic plug-in for getting android devices"
 type = "post"
-
+categories = ["tools"]
 +++
 This is an interesting trick.
 Recently a co-worker wanted to have a parameter in his jenkins build that should have the device id of one of the connected devices.

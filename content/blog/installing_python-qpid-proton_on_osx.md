@@ -4,7 +4,7 @@ date = "2015-10-17T15:27:27+03:00"
 draft = false
 title = "Installing python-qpid-proton on OSX"
 type = "post"
-
+categories = ["tools"]
 +++
 
 For Azure event hubs you can use AMQP 1.0 protocol, and the recommended way is [Apache Qpid-proton](https://qpid.apache.org/proton/) and for python it has a module python-qpid-proton.

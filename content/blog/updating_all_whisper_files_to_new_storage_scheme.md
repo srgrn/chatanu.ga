@@ -4,7 +4,7 @@ date = "2015-09-07T10:45:16+03:00"
 draft = false
 title = "Updating all whisper files to new storage scheme"
 type = "post"
-
+categories = ["tools"]
 +++
 
 So I installed new graphite instance, and started it up. This would have been great if I remembered to set storage-schemes.conf before it started to receive data. 

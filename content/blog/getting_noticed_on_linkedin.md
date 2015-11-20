@@ -4,7 +4,7 @@ date = "2015-08-22T22:12:46+03:00"
 draft = false
 title = "Getting noticed on linkedin"
 type = "post"
-
+categories = ["social"]
 +++
 
 It seems to me that the [linkedin](https://linkedin.com) top contributor mechanism is broken. 

@@ -4,7 +4,7 @@ date = "2015-10-04T12:33:05+03:00"
 draft = false
 title = "How to create sublime text plugin part 3"
 type = "post"
-
+categories = ["coding"]
 +++
 
 So I updated my laptop (macbook pro from work) to the latest version of OSX, El Capitan.

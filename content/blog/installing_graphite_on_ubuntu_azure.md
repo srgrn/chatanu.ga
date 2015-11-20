@@ -4,7 +4,7 @@ date = "2015-09-15T06:47:09+03:00"
 draft = false
 title = "installing graphite on ubuntu in Azure"
 type = "post"
-
+categories = ["tools"]
 +++
 
 Reading on how to deploy graphite is annoying, there are so many articles each was probably correct when it was written, here below is my own story of how to deploy a monitoring station on an Azure VM.

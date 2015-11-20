@@ -4,7 +4,7 @@ date = "2015-09-19T22:30:07+03:00"
 draft = false
 title = "Tip using sitespeed.io with local graphite installation"
 type = "post"
-
+categories = ["tools"]
 +++
 
 After installing graphite on a machine as shown in a [previous post]({{< ref "installing_graphite_on_ubuntu_azure.md" >}}) I found out about [sitespeed.io](http://sitespeed.io) (which if you have a webapp/website you need to check).
