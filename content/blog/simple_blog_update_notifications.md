@@ -4,7 +4,7 @@ date = "2015-07-29T15:28:01+03:00"
 draft = false
 title = "Post blog updates to twitter with IFTTT for hugo"
 type = "post"
-
+categories = ["ideas"]
 +++
 
 The Hugo blog engine automatically creates rss feed for your site. 
@@ -13,7 +13,7 @@ Which means you can easily use IFTTT to tweet about your posts.
 
 The Default feed is at < YOUR URL >/index.xml and contain the entire content of your posts. This is a problem as it means people will not come to the site and will miss out on all the other amazing posts.
 
-The index.xml file like all other files can be controled from the layouts folder and it looks for rss.xml. Using the following template is replacing the whole body of the post with the summary and adding a read more link to the post
+The index.xml file like all other files can be controlled from the layouts folder and it looks for rss.xml. Using the following template is replacing the whole body of the post with the summary and adding a read more link to the post
 
 {{< highlight html >}}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
