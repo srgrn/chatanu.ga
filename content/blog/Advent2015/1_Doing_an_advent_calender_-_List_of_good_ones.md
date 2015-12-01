@@ -12,6 +12,7 @@ type = "post"
 A few years ago I heard of the concept of [Advent Calendar](https://en.wikipedia.org/wiki/Advent_calendar). 
 
 It was a Perl Calender so each day they had a nice little post about Perl. Since than I found some others and I really wanted to be part of it or create my own. 
+<!--more-->
 
 So without Further explanations, here is the first post in my little Advent Calender - some good advent Calenders:
 

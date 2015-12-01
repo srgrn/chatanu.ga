@@ -3,7 +3,7 @@ Description = ""
 categories = ['Advent']
 date = "2015-12-02T08:00:00+02:00"
 pubdate = "2015-12-02T08:00:00+02:00"
-draft = true
+draft = false
 title = "2 - Useful Jenkins Plugins"
 type = "post"
 
@@ -12,6 +12,7 @@ type = "post"
 So here to the second day of my little Advent Calendar.
 
 So we use Jenkins as our build server at my work and there are several plug-ins that are great and helpful.
+<!--more-->
 
 They are not in any particular order.
 
@@ -27,4 +28,4 @@ They are not in any particular order.
   - [EnvInject](https://wiki.jenkins-ci.org/display/JENKINS/EnvInject+Plugin) - Probably used by anyone that want to mess around with the enviroment between build steps, we use it also to allow setting the build number from inside the build to make it easier to read.
 
   Feel free to add more in the comments.
-  
+
