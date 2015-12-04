@@ -1,9 +1,10 @@
 +++
 Description = ""
 categories = []
-date = "2015-11-29T22:03:57+02:00"
-draft = true
-title = "7_-_many_newsletters_to_follow"
+date = "2015-12-06T08:00:00+02:00"
+pubdate = "2015-12-06T08:00:00+02:00"
+draft = false
+title = "7 - many newsletters to follow"
 type = "post"
 
 +++

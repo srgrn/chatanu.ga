@@ -19,4 +19,6 @@ Finding a specific object/hash in a python list by attribute/value
 
 This returns an array of hashes matching the specific field.
 
-While this proably shows you needed to use a hash instead of a list with some unique key that can be used to select sometimes we work with old code and must fit to it instead of the other way around.
+While this probably shows you needed to use a hash instead of a list with some unique key that can be used to select sometimes we work with old code and must fit to it instead of the other way around.
+
+Hope it helps.
