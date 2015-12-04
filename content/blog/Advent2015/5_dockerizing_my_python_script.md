@@ -1,6 +1,6 @@
 +++
 Description = ""
-categories = []
+categories = ['Advent']
 date = "2015-12-05T08:00:00+02:00"
 pubdate = "2015-12-05T08:00:00+02:00"
 draft = false
