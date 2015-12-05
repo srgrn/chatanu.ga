@@ -1,10 +1,10 @@
 +++
 Description = ""
 categories = []
-date = "2015-12-07T08:00:00+02:00"
+date = "2015-12-05T21:54:06+02:00"
 pubdate = "2015-12-07T08:00:00+02:00"
-draft = true
-title = "7_-_interesting_tools_to_teach_kids_programming"
+draft = false
+title = "7 - interesting tools to teach kids programming"
 type = "post"
 
 +++
