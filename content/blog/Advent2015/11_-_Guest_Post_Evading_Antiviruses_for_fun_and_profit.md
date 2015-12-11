@@ -12,7 +12,7 @@ type = "post"
 
 Writing 24 posts for an advent calender is hard on your own. That's why you can ask friends for help.
 
-The post below was written by *Meitar Keren* the CTO at Imali Media.
+The post below was written by *Meitar Keren* a friend with lots of knowledge regrading evading AV software.
 
 So, you want to know about the dark side?
 
