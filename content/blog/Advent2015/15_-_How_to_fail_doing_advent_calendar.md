@@ -3,7 +3,7 @@ Description = ""
 categories = []
 date = "2015-12-15T08:02:14Z"
 draft = false
-title = "15_-_How_to_fail_doing_advent_calendar"
+title = "15 - How to fail doing advent calendar"
 type = "post"
 
 +++
@@ -15,5 +15,7 @@ You need to collect posts, guest posts, tips for 24 days and set it up for auto 
 
 It is very hard writing so many posts to keep up, if you try to do it during december. Espcially since I was going on vacation and time is always limited on vacations.
 
-In short regular posting will resume after December 26. Thanks for reading.
+regular posting will resume after December 26 with some more improvements. 
+
+Thanks for reading.
 
