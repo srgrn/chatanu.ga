@@ -1,9 +1,9 @@
 +++
 Description = ""
 categories = ["coding"]
-date = "2016-04-04T13:13:16+03:00"
-draft = true
-title = "checking_tls_certificate_expiration"
+date = "2016-04-04T14:26:54+03:00"
+draft = false
+title = "Checking TLS certificate expiration"
 type = "post"
 
 +++
@@ -20,6 +20,18 @@ While it would have been easy to use python, a script such as this would have to
 
 So I decided to have another try at golang, as this was supposed to be a simple CLI tool with very simple usage.
 
+Since I usually use python there were a few surprises along the way.
+The first came when discovering that while I can easily get the certificate for the site, and even get the end date as a time object for some reason the Duration struct doesn't have a days field, this in itself is not a real problem a simple calculation of ```time.Duration(24) * time.Hour``` gets you a day worth of time, it was a bit annoying.
+
+the second thing was that os.exit according to the documentation is stopping the entire program, and the correct usage is to do a defer at the beginning of the main method.
+{{< highlight go >}}
+    code := 0
+    defer func() {
+        os.Exit(code)
+    }()
+{{< /highlight >}}
+But over all it was a fun little experiment. One which was easy enough to finish in less than an hour and another hour for making it look less like a pulled together script and more like a simple tool. 
+
 so the final result is at https://github.com/srgrn/tls_expiry_checker and the explanation is as simple to use as running:
 
 ```go get -u github.com/srgrn/tls_expiry_checker```
@@ -33,3 +45,5 @@ so it can be used by any other monitoring tool that checks exit codes.
 the great thing about golang in this case is that it creates a static binary, and I use only the standard library without external dependencies.
 
 If you try it out and find issues please let me know by open a issue in the repo.
+
+
