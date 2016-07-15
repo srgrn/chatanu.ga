@@ -1,8 +1,8 @@
 +++
 Description = ""
 categories = ["general"]
-date = "2016-07-15T21:59:29+03:00"
-draft = true
+date = "2016-07-15T22:46:58+03:00"
+draft = false
 title = "new job new challanges"
 type = "post"
 
